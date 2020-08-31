@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "KyivType Sans";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/KyivTypeSansBlack/KyivTypeSansBlack.eot");
+  src: url("/fonts/KyivTypeSansBlack/KyivTypeSansBlack.eot?#iefix")format("embedded-opentype"),
+  url("/fonts/KyivTypeSansBlack/KyivTypeSansBlack.woff") format("woff"),
+  url("/fonts/KyivTypeSansBlack/KyivTypeSansBlack.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KyivType Sans Black3";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/KyivTypeSansBlack3/KyivTypeSansBlack3.eot");
+  src: url("/fonts/KyivTypeSansBlack3/KyivTypeSansBlack3.eot?#iefix")format("embedded-opentype"),
+  url("/fonts/KyivTypeSansBlack3/KyivTypeSansBlack3.woff") format("woff"),
+  url("/fonts/KyivTypeSansBlack3/KyivTypeSansBlack3.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "KyivType Sans";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/KyivTypeSansMedium/KyivTypeSansMedium.eot");
+  src: url("/fonts/KyivTypeSansMedium/KyivTypeSansMedium.eot?#iefix")format("embedded-opentype"),
+  url("/fonts/KyivTypeSansMedium/KyivTypeSansMedium.woff") format("woff"),
+  url("/fonts/KyivTypeSansMedium/KyivTypeSansMedium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "KyivType Sans Heavy";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/KyivTypeSansHeavy/KyivTypeSansHeavy.eot");
+  src: url("/fonts/KyivTypeSansHeavy/KyivTypeSansHeavy.eot?#iefix")format("embedded-opentype"),
+  url("/fonts/KyivTypeSansHeavy/KyivTypeSansHeavy.woff") format("woff"),
+  url("/fonts/KyivTypeSansHeavy/KyivTypeSansHeavy.ttf") format("truetype");
+}

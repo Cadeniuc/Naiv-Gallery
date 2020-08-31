@@ -1,0 +1,479 @@
+@media only screen and (max-width: 1600px) {
+	.item_soc_menu_go,
+	.menu_text_links ul li {
+		margin-right: 15px;
+	}
+	.this_is_tex_fest {
+		font-size: 81px;
+	}
+	.icon_video_top {
+		width: 60px;
+		height: 60px;
+	}
+	.in_to_item_num_event {
+		padding-right: 0;
+	}
+	.big_numb_this {
+		font-size: 90px;
+	}
+	.hour_num_event {
+		font-size: 18px;
+		line-height: 21px;
+		margin-left: 0;
+	}
+	.title_num_event {
+		font-size: 19px;
+	}
+	.descr_num_event {
+		font-size: 17px;
+	}
+}
+@media only screen and (max-width: 1400px) {
+	.this_is_logo_left .logo_site img {
+		max-width: 300px;
+	}
+	.in_to_right_hd {
+		font-size: 16px;
+	}
+	.menu_header {
+		padding-right: 40px;
+	}
+	.this_is_tex_fest {
+		font-size: 70px;
+		line-height: 82px;
+		letter-spacing: -0.02em;
+	}
+	.texts_this_content {
+		font-size: 19px;
+    line-height: 26px;
+    min-height: 1px;
+	}
+	.descr_num_event {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.children_prog_txt {
+		font-size: 15px;
+	}
+	.simple_button_transparent {
+		padding: 0 59px;
+		height: 76px;
+		font-size: 19px;
+		line-height: 72px;
+	}
+	.button_this_hg_g {
+		font-size: 19px;
+		width: 260px;
+		height: 76px;
+	}
+}
+@media only screen and (max-width: 1365px) {
+	.big_numb_this {
+		font-size: 75px;
+	}
+	.hour_num_event {
+		font-size: 16px;
+		line-height: 19px;
+	}
+	.title_num_event {
+		font-size: 18px;
+	}
+	.item_numb_event {
+		margin-bottom: 80px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.half_float {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.block_numb_events {
+		padding-top: 100px;
+	}
+	.in_to_item_num_event {
+		padding-left: 20px;
+	}
+	.row_go {
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+}
+@media only screen and (max-width: 1199px) {
+	.in_to_right_hd {
+		display: none;
+	}
+	.container_big {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.pagination_slid_hm,
+	.texts_this_slider_go {
+		left: 20px;
+	}
+	.this_is_tex_fest {
+		font-size: 56px;
+		line-height: 71px;
+		letter-spacing: 0;
+	}
+	.arrows_slider {
+		margin-top: 15px;
+	}
+	.item_numb_event {
+		width: 50%;
+	}
+	.title_num_event {
+		font-size: 21px;
+	}
+	.big_numb_this {
+		font-size: 105px;
+	}
+	.hour_num_event {
+		font-size: 21px;
+		line-height: 25px;
+	}
+	.descr_num_event {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.in_to_texts_num_event {
+		min-height: 305px;
+	}
+	.title_video_go {
+		font-size: 18px;
+	}
+	.descr_video_go {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.h2 {
+		font-size: 50px;
+	}
+	.this_is_logo_left,
+	.right_header_go,
+	.in_to_header_go {
+		height: 100px;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-flex-align: center;
+		-ms-flex-align: center;
+		-webkit-align-items: center;
+		align-items: center;
+	}
+	.right_header_go {
+		justify-content: flex-end;
+		-webkit-justify-content: flex-end;
+	}
+	.this_is_logo_left .logo_site img {
+		max-width: 192px;
+	}
+	.menu_burger_this {
+		display: block;
+	}
+/*	.header_this_go {
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		background: #fff;
+		background: rgba(255,255,255,.95);
+		z-index: 10;
+		border-bottom: 1px solid rgba(0,0,0,.05);
+	}
+	body {
+		padding-top: 100px;
+	}*/
+}
+@media only screen and (max-width: 991px) {
+	.logo_right_foot,
+	.block_logo_and_text .text_this {
+		float: none;
+	}
+	.logo_right_foot {
+		margin-top: 0;
+    margin-bottom: 20px;
+	}
+	.row_item_foot .half_float {
+		width: 100%;
+	}
+	.first_top_blk_gall {
+		margin-bottom: 40px;
+	}
+	.right_foot_go {
+		padding-top: 30px;
+	}
+	.block_info_sec .left_text_fest,
+	.block_info_sec .right_texts_gkd_g {
+		width: 100%;
+	}
+	.texts_this_content {
+		font-weight: 500;
+		font-size: 21px;
+    line-height: 28px;
+	}
+	.icon_video_top {
+		width: 50px;
+		height: 50px;
+	}
+	.item_intellig_go {
+		margin-bottom: 88px;
+	}
+	.in_to_container_artist .half_float {
+		width: 100%;
+	}
+	.descr_and_butt_artist:before {
+		bottom: auto;
+		top: 0;
+		left: 0;
+		right: 0;
+		width: 100%;
+		height: 2px;
+	}
+	.descr_and_butt_artist {
+		margin-top: 0;
+    padding-top: 14px;
+	}
+	.in_to_artist {
+		padding: 16px 0 40px;
+	}
+	.in_to_container_artist {
+		padding-top: 3px;
+	}
+	.in_to_container_artist .h2 {
+		margin-bottom: 7px;
+	}
+	.decr_this_con_artist {
+		min-height: 1px;
+		margin-bottom: 70px;
+	}
+	.texts_museum_go {
+		padding-right: 0;
+	}
+	.in_to_container_museum .half_float {
+		width: 100%;
+	}
+	.button_this_hg_g {
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 18px;
+		width: 268px;
+		height: 60px;
+	}
+	.image_right_this_muzeum {
+		border-width: 20px;
+    margin-top: 50px;
+	}
+	.in_to_museum {
+		padding-bottom: 30px;
+	}
+	.this_is_tex_fest {
+		font-size: 76px;
+		line-height: 1.1;
+		letter-spacing: -0.02em;
+		padding-right: 0;
+		padding-top: 0;
+		border-bottom: 2px solid #9FE0D0;
+    padding-bottom: 12px;
+    margin-bottom: 15px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.this_is_tex_fest {
+		font-size: 73px;
+		line-height: 1.1;
+	}
+	.in_to_info_blk .in_to_right_texts_go {
+		padding-top: 0;
+	}
+	.item_intellig_go {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+@media only screen and (max-width: 639px) {
+	.texts_this_content {
+		font-size: 18px;
+	}
+	.this_is_tex_fest {
+		font-size: 13vw;
+	}
+	.show_more_slid_home {
+		display: block;
+	}
+	.arrows_slider {
+		margin-bottom: 25px;
+	}
+	.in_to_info_blk .in_to_right_texts_go {
+		max-height: 31px;
+		overflow: hidden;
+	}
+	.in_to_info_blk .in_to_right_texts_go.visible {
+		max-height: 1000px;
+		transition: max-height .5s ease-in-out;
+	}
+	.in_to_info_blk {
+		padding-bottom: 17px;
+	}
+	.texts_this_slider_go {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.this_is_background {
+		height: 70vh;
+	}
+	.block_intelligence .half_float {
+		width: 100%;
+	}
+	.block_intelligence {
+		padding: 21px 0 72px;
+	}
+	.descr_intel_go {
+		font-size: 18px;
+	}
+	.block_intelligence .h2 {
+		margin-bottom: 8px;
+	}
+	.item_intellig_go {
+		width: 100%;
+	}
+	.icon_video_top {
+		width: 60px;
+		height: 60px;
+	}
+	.items_blk_video {
+		margin-top: 70px;
+    margin-bottom: 13px;
+	}
+	.descr_video_go {
+		font-size: 18px;
+	}
+	.title_video_go {
+		margin-bottom: 0;
+	}
+	.simple_button_transparent {
+		font-size: 18px;
+		height: 60px;
+		line-height: 56px;
+    padding: 0 48px;
+	}
+	.item_numb_event {
+		width: 100%;
+    margin-bottom: 85px;
+	}
+	.in_to_texts_num_event {
+		min-height: 1px;
+    margin-bottom: 40px;
+	}
+	.title_num_event {
+		font-size: 18px;
+		text-transform: none;
+		line-height: 28px;
+    margin-bottom: 16px;
+	}
+	.hour_num_event {
+		font-size: 18px;
+		line-height: 22px;
+		letter-spacing: -0.04em;
+	}
+	.head_event_g {
+		margin-top: -40px;
+	}
+	.in_to_item_num_event {
+		position: relative;
+		border: 0;
+    padding-left: 25px;
+    padding-right: 30px;
+	}
+	.block_numb_events {
+		padding-top: 60px;
+		margin-bottom: 46px;
+	}
+	.block_events_go {
+		padding-bottom: 65px;
+	}
+	.in_to_item_num_event:before {
+		content: "";
+		position: absolute;
+    left: -5px;
+    top: 44px;
+		bottom: -10px;
+		width: 1px;
+		background: rgba(0,0,0,.2);
+	}
+	.descr_museum_this_go {
+		font-size: 18px;
+    margin-bottom: 63px;
+	}
+	.image_right_this_muzeum {
+		margin-top: 56px;
+	}
+	.button_simple,
+	.decr_this_con_artist {
+		font-size: 18px;
+	}
+	.decr_this_con_artist {
+		margin-bottom: 45px;
+	}
+	.children_prog_txt {
+		font-size: 18px;
+	}
+	.in_to_container_museum {
+		padding-top: 3px;
+	}
+}
+@media only screen and (max-width: 479px) {
+	.h2 {
+		font-size: 40px;
+		line-height: 40px;
+    margin-bottom: 16px;
+	}
+	.block_logo_and_text .text_this,
+	.item_cont_texts_go a {
+		font-size: 18px;
+	}
+	.logo_my_gall > img {
+		max-width: 238px;
+	}
+	.in_to_foot_go {
+		padding: 25px 0 41px;
+	}
+	.item_soc_go a img {
+		zoom: .8;
+	}
+	.item_soc_go {
+		margin-right: 15px;
+	}
+	.contacts_texts_go {
+		margin-bottom: 17px;
+	}
+	.first_top_blk_gall {
+		margin-bottom: 33px;
+	}
+	.block_logo_and_text {
+		margin-bottom: 24px;
+	}
+	.this_is_background {
+		height: 585px;
+	}
+	.this_is_tex_fest {
+		font-size: 12vw;
+	}
+	.texts_this_content p {
+		margin-bottom: 8px;
+	}
+	.in_to_item_num_event {
+		padding-right: 0;
+	}
+	.block_numb_events {
+		margin-bottom: 10px;
+	}
+	.in_to_container_museum {
+		padding-top: 13px;
+	}
+}
+@media only screen and (max-width: 320px) {
+
+} 
